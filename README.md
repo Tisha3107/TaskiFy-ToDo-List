@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+Screenshots :)
+
+![Screenshot 2024-06-09 130744](https://github.com/Tisha3107/TaskiFy---ToDo-List/assets/100868235/96d0f514-a8b2-45ed-898b-3179942e861d)
+
+![Screenshot 2024-06-09 131137](https://github.com/Tisha3107/TaskiFy---ToDo-List/assets/100868235/a11557a7-2cf7-4df2-a031-99cf30340f11)
+
+![Screenshot 2024-06-09 131205](https://github.com/Tisha3107/TaskiFy---ToDo-List/assets/100868235/849ed677-e699-4d00-8817-f03ea152ed8c)
+
+![Screenshot 2024-06-09 131219](https://github.com/Tisha3107/TaskiFy---ToDo-List/assets/100868235/a08b60d5-213d-4fe5-8033-60f20bbdeb3c)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
