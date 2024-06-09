@@ -1,0 +1,70 @@
+.App{
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+  background-image: url("https://plus.unsplash.com/premium_photo-1683309563562-aa3cfde9ed10?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dG9kbyUyMGxpc3R8ZW58MHx8MHx8fDA%3D");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  display: flex;
+  background-color: rgb(207, 199, 199);
+  align-items: center;
+  flex-direction: column;
+  color: black;
+  height: 80vh;
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 70px;
+  box-shadow: 200px black;
+}
+p{
+  font-size: 14px;
+  margin-top: -20px;
+  padding-bottom: 20px;
+}
+.todoForm{
+  display: flex;
+  justify-content: space-around;
+  width: 450px;
+}
+input{
+  width: 80%;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 16px;
+}
+button{
+  border: none;
+  padding: 10px;
+  border-radius: 13px;
+  margin: 0 5px;
+  border: 1px solid #000000;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+button:hover{
+  background-color: red;
+  color: white;
+}
+.allTodos{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.singleTodo{
+  border-radius: 50px;
+  margin: 10px 0;
+  background-color: #000000;
+  padding: 10px 20px;
+  display: flex;
+  width: 450px;
+  color: white;
+  align-items: center;
+}
+.todoText{
+  flex: 1;
+}
